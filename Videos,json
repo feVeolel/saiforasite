@@ -1,5 +1,10 @@
 {
-      "video248": {
+   "video249": {
+        "url": "https://www.youtube.com/watch?v=p58zsnjKyw4",
+        "title": "[New! 🐾] Pet GO 🔥 No Linkvertise! Auto Upgrade / Auto Break Coin 🔥 PC & Mobile! (2024)",
+            "script": ""
+    },
+    "video248": {
         "url": "https://www.youtube.com/watch?v=B3n33otvBlQ",
         "title": "[Best 🏰] Dungeon RNG 🔥 No Linkvertise! Auto Potion / Auto Fishing / BlackSmith 🔥 PC & Mobile! (2024)",
             "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/trawma/trawma/main/trawma(upd).lua'))()"
