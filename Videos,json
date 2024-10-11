@@ -1,4 +1,9 @@
 {
+      "video248": {
+        "url": "https://www.youtube.com/watch?v=B3n33otvBlQ",
+        "title": "[Best 🏰] Dungeon RNG 🔥 No Linkvertise! Auto Potion / Auto Fishing / BlackSmith 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/trawma/trawma/main/trawma(upd).lua'))()"
+    },
      "video247": {
         "url": "https://www.youtube.com/watch?v=Ye767nJ8vS8",
         "title": "[New! ⚽] Super League Soccer 🔥 No Linkvertise! Auto Play / Auto Goal!! 🔥 PC & Mobile! (2024)",
