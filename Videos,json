@@ -1,8 +1,13 @@
 {
+   "video251": {
+        "url": "https://www.youtube.com/watch?v=XDFyM7JtB-s",
+        "title": "[LDS HUB🎃] Arm Wrestle Simulator 🔥 No Linkvertise! Update Halloween!! Best Hub 🔥 PC & Mobile! (2024)",
+            "script": ""
+    },
    "video250": {
         "url": "https://www.youtube.com/watch?v=YpPGB5S_TGU",
         "title": "[Hub! 🚕] Taxi Boss 🔥 No Linkvertise! Best Auto Farm (Ez Money!!) 🔥 PC & Mobile! (2024)",
-            "script": "loadstring(game:HttpGet('https://pastebin.com/raw/0UZKNehs', true))() "
+            "script": "loadstring(game:HttpGet('https://pastebin.com/raw/0UZKNehs', true))()"
     },
    "video249": {
         "url": "https://www.youtube.com/watch?v=Sw09rIIOcZs",
