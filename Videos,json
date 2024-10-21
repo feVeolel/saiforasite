@@ -1,4 +1,14 @@
 {
+    "video253": {
+        "url": "https://www.youtube.com/watch?v=YV22L4mE5-A",
+        "title": "[LDS HUB🎃] Car Dealership Tycoon 🔥 No Linkvertise! Auto Halloween Race 🔥 PC & Mobile! (2024)",
+            "script": ""
+    },
+   "video252": {
+        "url": "https://www.youtube.com/watch?v=ZAEIQKa9Ejk",
+        "title": "[Best! 🎃] A Dusty Trip 🔥 No Linkvertise! OP Auto Candy and more! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/artemy133563/Utilities/main/ADustyTrip',true))()"
+    },
    "video251": {
         "url": "https://www.youtube.com/watch?v=XDFyM7JtB-s",
         "title": "[LDS HUB🎃] Arm Wrestle Simulator 🔥 No Linkvertise! Update Halloween!! Best Hub 🔥 PC & Mobile! (2024)",
