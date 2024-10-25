@@ -1,4 +1,9 @@
 {
+ "video253": {
+        "url": "https://www.youtube.com/watch?v=YsIVSyhyhaQ",
+        "title": "[New! 👻] The Haunt 🔥 No Linkvertise! Free Limited!! Use FAST! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/TheHaunt'))()"
+    },
     "video253": {
         "url": "https://www.youtube.com/watch?v=YV22L4mE5-A",
         "title": "[LDS HUB🎃] Car Dealership Tycoon 🔥 No Linkvertise! Auto Halloween Race 🔥 PC & Mobile! (2024)",
