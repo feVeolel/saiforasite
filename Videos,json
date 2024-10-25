@@ -1,5 +1,10 @@
 {
- "video254": {
+   "video255": {
+        "url": "https://www.youtube.com/watch?v=_hPO_cAa0xA",
+        "title": "[OP! 💥] Destruction Simulator 🔥 No Linkvertise! INF money!! Auto Sell 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://rawscripts.net/raw/Destruction-Simulator-INF-MONEY-20330'))()"
+    },
+   "video254": {
         "url": "https://www.youtube.com/watch?v=YsIVSyhyhaQ",
         "title": "[New! 👻] The Haunt 🔥 No Linkvertise! Free Limited!! Use FAST! 🔥 PC & Mobile! (2024)",
             "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/TheHaunt'))()"
