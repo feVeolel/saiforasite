@@ -1,4 +1,9 @@
 {
+   "video256": {
+        "url": "https://www.youtube.com/watch?v=-iD14wyO-bA",
+        "title": "[Best! 🚢] Build a Boat for Treasures 🔥 No Linkvertise! Best Auto Farm!! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/XRoLLu/UWU/main/BUILD%20A%20BOAT%20FOR%20TREASURE.lua'))()"
+    },
    "video255": {
         "url": "https://www.youtube.com/watch?v=_hPO_cAa0xA",
         "title": "[OP! 💥] Destruction Simulator 🔥 No Linkvertise! INF money!! Auto Sell 🔥 PC & Mobile! (2024)",
