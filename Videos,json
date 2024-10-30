@@ -1,4 +1,9 @@
 {
+   "video261": {
+        "url": "https://www.youtube.com/watch?v=aXn30S7piLo",
+        "title": "[Best! 🔪] Murder Mystery 2 🔥 Best Hub Halloween Event! No Linkvertise! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ItsJiDy/Personal-Script/refs/heads/main/mm2%20halloween.lua'))()"
+    },
    "video260": {
         "url": "https://www.youtube.com/watch?v=PWTc2orLQno",
         "title": "[New! 🎣] Fisch 🔥 No Linkvertise! Auto Fish / Auto Sell! and more🔥 PC & Mobile! (2024)",
