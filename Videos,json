@@ -1,4 +1,9 @@
 {
+   "video260": {
+        "url": "https://www.youtube.com/watch?v=PWTc2orLQno",
+        "title": "[New! 🎣] Fisch 🔥 No Linkvertise! Auto Fish / Auto Sell! and more🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua', true))()"
+    },
   "video259": {
         "url": "https://www.youtube.com/watch?v=rh_Bx-qRtl8",
         "title": "[Best 💥] Slap Battles 🔥 No Linkvertise! Halloween Event!! 🔥 PC & Mobile! (2024)",
