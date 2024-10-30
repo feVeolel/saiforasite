@@ -1,4 +1,14 @@
 {
+  "video259": {
+        "url": "https://www.youtube.com/watch?v=rh_Bx-qRtl8",
+        "title": "[Best 💥] Slap Battles 🔥 No Linkvertise! Halloween Event!! 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Skzuppy/forge-hub/main/loader.lua'))()"
+    },
+  "video258": {
+        "url": "https://www.youtube.com/watch?v=6RpX10g9ymA",
+        "title": "[New! 🚗] Driving Empire 🔥 No Linkvertise! Halloween RACE / Get vaults 🔥 PC & Mobile! (2024)",
+            "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/cool83birdcarfly02six/DrivingEmpireEvents/refs/heads/main/README.md'))() "
+    },
    "video257": {
         "url": "https://www.youtube.com/watch?v=mbEtrBYpFvs",
         "title": "[New! 🍇] Fruit Battlegrounds 🔥 No Linkvertise! OP Auto Farms / Imp HUB! 🔥 PC & Mobile! (2024)",
